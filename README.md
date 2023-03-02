@@ -42,7 +42,7 @@ QGIS is a free and open-source geographic information system that allows you to 
 
 ### Results:
 As we can see in the "qgis" folder, there is a robust consumption projection for the city of Campinas. This can be very useful, depending on the purpose. We have the areas and properties classified by expenditure, represented by blue and red, respectively.
-
+![Representation of the final projection](qgis-features.jpg)
 ### References:
 
 - https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=destaques

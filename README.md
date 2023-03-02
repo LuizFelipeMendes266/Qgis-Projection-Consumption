@@ -8,7 +8,6 @@
 - [Methods](#methods)
 - [Tools and Technologies](#tools-and-technologies)
 - [Results](#results)
-- [Conclusion](#conclusion)
 - [References](#references)
 
 
@@ -33,20 +32,18 @@ This project was developed using the following tools and technologies:
 - Regular Expressions (RegEx): A sequence of characters used to match patterns in text data.
 - QGIS: A free and open-source desktop GIS (Geographic Information System) software.
 
+#### Installing QGIS
+
+QGIS is a free and open-source geographic information system that allows you to view, edit, and analyze geospatial data. To install QGIS, follow these steps:
+
+- Go to the QGIS download page at https://www.qgis.org/en/site/forusers/download.html.
+- Select your operating system from the options provided.
+- Follow the on-screen instructions to download and install QGIS.
+
 ### Results:
-Como podemos ver na pasta "qgis", temos uma robusta projeção de consumo para a cidade de Campinas.Isto pode ser muito útil, dependendo do intuito.
-
-
-### Conclusion:
-
-Overall, our analysis showed that customers generally have positive sentiments towards beauty products, with effectiveness and ease of use being the most important factors. Price was identified as a potential barrier to customer satisfaction, suggesting that companies should consider pricing strategies that align with customer expectations.
+As we can see in the "qgis" folder, there is a robust consumption projection for the city of Campinas. This can be very useful, depending on the purpose. We have the areas and properties classified by expenditure, represented by blue and red, respectively.
 
 ### References:
 
-- Dataset source: [link to website]
-- Python libraries and tools:
-  - pandas: [link to documentation]
-  - scikit-learn: [link to documentation]
-  - matplotlib: [link to documentation]
-  - seaborn: [link to documentation]
-  - Jupyter Notebook: [link to documentation]
+- https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=destaques
+- https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/26565-malhas-de-setores-censitarios-divisoes-intramunicipais.html?=&t=downloads

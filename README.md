@@ -1,4 +1,5 @@
 ## Consumption projection with Python and Qgis
+!(qgis-satellite.PNG)
 
 ## Table of Contents
 

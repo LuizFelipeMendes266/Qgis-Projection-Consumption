@@ -11,27 +11,27 @@
 - [Conclusion](#conclusion)
 - [References](#references)
 
-## Project Title: Beauty Product Reviews Analysis
 
 ### Project Description:
 
-In this project, we will be analyzing beauty product reviews from a popular e-commerce website. The goal is to gain insights into customer sentiments and preferences for various beauty products.
+In this project, we will be analyzing and building a graphical representation of the consumption of regions and properties in the city of Campinas Brazil.
 
 ### Data:
 
-The dataset consists of product reviews for various beauty products. Each review includes a rating from 1 to 5 stars, as well as the text of the review itself.
+The expense data comes from the Consumer Price Index (IPC), with the file name 'prediction-expense-by-census-tract'. The census tracts come from IBGE, with the shapefiles named '35SEE250GC_SIR'. Finally, we have the data for the Property Tax Information Return (IPTU) for the city of Campinas.
 
 ### Methods:
 
-We will be using natural language processing (NLP) techniques to analyze the text of the reviews and extract insights from the data. Specifically, we will be using sentiment analysis to determine whether the reviews are positive, negative, or neutral, and we will be using topic modeling to identify common themes and topics in the reviews.
+In a nutshell, we will be cross-referencing data between the IPC dataset and the IBGE dataset, and finally, we will cross-reference this information with the IPTU data. The steps are described in the notebook.
 
 ### Tools and Technologies:
 
-We will be using Python programming language and the following libraries and tools:
-- pandas: for data manipulation and analysis
-- scikit-learn: for NLP processing and analysis
-- matplotlib and seaborn: for data visualization
-- Jupyter Notebook: for code development and documentation
+This project was developed using the following tools and technologies:
+- Python 3: A programming language used for data analysis and machine learning.
+- Pandas: A popular data manipulation and analysis library.
+- GeoPandas: A Python library used to work with geospatial data.
+- Regular Expressions (RegEx): A sequence of characters used to match patterns in text data.
+- QGIS: A free and open-source desktop GIS (Geographic Information System) software.
 
 ### Results:
 

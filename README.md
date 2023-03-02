@@ -27,15 +27,15 @@ In a nutshell, we will be cross-referencing data between the IPC dataset and the
 ### Tools and Technologies:
 
 This project was developed using the following tools and technologies:
-- Python 3: A programming language used for data analysis and machine learning.
+- Python : A programming language used for data analysis and machine learning.
 - Pandas: A popular data manipulation and analysis library.
 - GeoPandas: A Python library used to work with geospatial data.
 - Regular Expressions (RegEx): A sequence of characters used to match patterns in text data.
 - QGIS: A free and open-source desktop GIS (Geographic Information System) software.
 
 ### Results:
+Como podemos ver na pasta "qgis", temos uma robusta projeção de consumo para a cidade de Campinas.Isto pode ser muito útil, dependendo do intuito.
 
-We found that the most common beauty product categories reviewed were skincare, haircare, and makeup. The majority of the reviews were positive, with an average rating of 4.3 out of 5 stars. The most commonly mentioned positive attributes of the products were effectiveness and ease of use, while the most commonly mentioned negative attribute was price.
 
 ### Conclusion:
 
